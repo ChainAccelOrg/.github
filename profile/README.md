@@ -2,6 +2,8 @@
 
 You're probably looking for [https://github.com/Cyfrin](https://github.com/Cyfrin)
 
+Or, the [Cyfrin mega course.](https://github.com/Cyfrin/foundry-full-course-f23)
+
 <!--
 
 **Here are some ideas to get you started:**
